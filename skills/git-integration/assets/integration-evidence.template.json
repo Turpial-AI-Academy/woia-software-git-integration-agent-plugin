@@ -1,0 +1,55 @@
+{
+  "schema": "com.turpial.git-integration-evidence/v1",
+  "result": null,
+  "repository": null,
+  "source": {
+    "ref": null,
+    "head": null,
+    "tree": null,
+    "reviewed_base": null,
+    "reviewed_delta": null,
+    "review_evidence": [],
+    "test_evidence": []
+  },
+  "target": {
+    "ref": null,
+    "head_before": null,
+    "tree_before": null,
+    "head_final": null,
+    "tree_final": null
+  },
+  "policy": {
+    "sources": [],
+    "integration_method": null,
+    "requirements": [],
+    "authorization": null
+  },
+  "integration": {
+    "method_used": null,
+    "identity_mode": null,
+    "source_commit_preserved": null,
+    "continuity_proof": [],
+    "target_movement": null,
+    "conflicts": [],
+    "manual_mutations": []
+  },
+  "evidence_reconciliation": [],
+  "validation": {
+    "executed": [],
+    "rerun": [],
+    "reused": [],
+    "blocked_or_skipped": []
+  },
+  "hygiene": {
+    "preexisting_dirty_state": [],
+    "unresolved_index_entries": [],
+    "integration_attributable_residue": [],
+    "cleanup_actions": []
+  },
+  "remote": {
+    "pull_request": null,
+    "queue_state": null,
+    "target_ref_verified": null
+  },
+  "remaining_risks": []
+}

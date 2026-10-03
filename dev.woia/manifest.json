@@ -1,0 +1,25 @@
+{
+  "schema": "dev.woia.provider-manifest/v1",
+  "version": "0.5.0",
+  "authoring_profile": "thin",
+  "department": "software",
+  "capability": "git-integration",
+  "skill": "git-integration",
+  "source_lineage": {
+    "repository": "Turpial-AI-Academy/git-integration-agent-plugin",
+    "version": "1.0.1",
+    "commit": "b76f0a4f99a37f172eef4122a4bb03b068f29b53"
+  },
+  "migrated_portable_paths": [
+    "skills/git-integration/SKILL.md",
+    "skills/git-integration/assets/README.md",
+    "skills/git-integration/assets/integration-evidence.template.json",
+    "skills/git-integration/assets/integration-report.template.md",
+    "skills/git-integration/references/EVIDENCE_CONTINUITY.md",
+    "skills/git-integration/references/FAILURE_RECOVERY.md",
+    "skills/git-integration/references/FINAL_STATE_VERIFICATION.md",
+    "skills/git-integration/references/GIT_INTEGRATION_STANDARD.md",
+    "skills/git-integration/references/POLICY_DISCOVERY.md",
+    "skills/git-integration/references/README.md"
+  ]
+}

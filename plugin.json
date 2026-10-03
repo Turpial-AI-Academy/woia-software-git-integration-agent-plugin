@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-git-integration",
+  "version": "0.5.0",
+  "description": "Integrates reviewed and tested source changes into a repository according to its effective Git policy, with verifiable evidence and reconciled final state.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-git-integration-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-git-integration-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "git-integration"
+  ]
+}
