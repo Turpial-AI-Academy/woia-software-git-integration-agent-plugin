@@ -5,7 +5,7 @@ license: MIT
 compatibility: Requires Git access to the target repository. Remote-provider access is needed only when effective policy or final-state proof depends on pull requests, protected branches, merge queues, or server-side rulesets.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # git-integration
